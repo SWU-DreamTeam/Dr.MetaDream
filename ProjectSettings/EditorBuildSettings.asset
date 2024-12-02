@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hospital_Login.unity
+    guid: 9a02273a8cb5d7242ac748c841641024
+  - enabled: 1
+    path: Assets/Scenes/Hospital_rooms.unity
+    guid: 71651ee7d3646ba4bbc1d2c0c521ceff
+  - enabled: 1
+    path: Assets/Scenes/Hospital_Patient.unity
+    guid: 826ca30781e9106438b938148ae35853
+  - enabled: 1
+    path: Assets/Scenes/Hospital_Doctor.unity
+    guid: d8d44b6e6f437d840901e89a6ee9155f
+  m_configObjects: {}
