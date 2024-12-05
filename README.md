@@ -4,7 +4,7 @@
      <img alt="GitHub language count" src="./Doc/Img/DreamTeam/Dr.MetaDream-Logo.png" height="200" width="450">
 </p>
 
-### :movie_camera: Demonstration video : https://www.youtube.com/watch?v=xD4C78X9o6c
+### :movie_camera: Demonstration video : [https://www.youtube.com/watch?v=xD4C78X9o6c](https://youtu.be/R6LgyoWwow4)
 
 # :books: Contents
 - [:book: Project Introduction](#book-Project-Introduction)
